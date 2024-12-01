@@ -1,2 +1,2 @@
 # roblox-cookie-checker
-Checks The Roblox Cookie Information 
+This checker, checks the cookie and sends the userinformation to your discord webhook where you can also filter it.
